@@ -1,4 +1,3 @@
-https://creativecommons.org/publicdomain/zero/1.0/
 Creates the site https://projects.apache.org/
 
 The canonical source is at:
@@ -8,5 +7,4 @@ Please raise bugs at: https://issues.apache.org/jira/projects/COMDEV
 using the component: Projects Tool
 
 Please do not use Pull Requests.
-
-TBC
+THX
