@@ -1,3 +1,4 @@
+Hi Everyone !
 https://github.com/GMBXSPACE/comdev-projects/blob/trunk/scripts/committee_info.py
 
 Creates the site https://httpd.apache.org
