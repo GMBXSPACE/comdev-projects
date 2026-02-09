@@ -4,10 +4,7 @@ https://github.com/GMBXSPACE/comdev-projects/blob/trunk/scripts/committee_info.p
 Creates the site https://httpd.apache.org
 
 The canonical source is at:
-https://svn.apache.org/repos/asf/comdev/projects.apache.org/trunk
-
-Please raise bugs at: https://issues.apache.org/jira/projects/COMDEV
-using the component: Projects Tool
+https://svn.apache.org/repos/asf/comdev/projects.apache.org
 
 Please do not use Pull Requests.
 THX
