@@ -1,4 +1,3 @@
-Hi Everyone !
 
 https://github.com/GMBXSPACE/comdev-projects/blob/trunk/scripts/committee_info.py
 
