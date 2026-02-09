@@ -1,3 +1,4 @@
+https://creativecommons.org/publicdomain/zero/1.0/
 Creates the site https://projects.apache.org/
 
 The canonical source is at:
