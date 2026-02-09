@@ -1,3 +1,4 @@
+https://github.com/GMBXSPACE/comdev-projects/blob/trunk/scripts/committee_info.py
 Creates the site https://projects.apache.org/
 
 The canonical source is at:
